@@ -400,7 +400,7 @@ export const settingsMetadata = {
 		label: 'Reject tokens transactions',
 		bitcoinLabel: 'rejecttokens',
 		description: 'Reject token transactions (runes).',
-		default: false,
+		default: true,
 	},
 
 	permitbarepubkey: {
